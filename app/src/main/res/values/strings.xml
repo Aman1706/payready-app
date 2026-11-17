@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayReady</string>
+    <string name="pay_now">Pay now</string>
+    <string name="restore">Restore</string>
+</resources>
